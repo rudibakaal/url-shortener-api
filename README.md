@@ -6,3 +6,5 @@ This URL shortener microservice is part of the freeCodeCamp Back End Development
 - Shorten a URL: `POST /api/shorturl`
 
 Explore the live app: [URL Shortener Microservice](https://project-urlshortener.bfskinner1995.repl.co/)
+
+By Rudi Bakaal
